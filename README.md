@@ -12,4 +12,4 @@ unit testing and ethical cybersecurity practices.
 - 18+ unit tests using unittest
 
 ## How to Run
-python3 encryption_tool.py
+python3 encryption_decryption.py
